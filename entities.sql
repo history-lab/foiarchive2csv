@@ -1,0 +1,1 @@
+\copy foiarchive.entities to entities-foiarchive.csv with csv header
